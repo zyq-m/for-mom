@@ -1,8 +1,8 @@
-# For Ecah
+# For Mom
 
-Simple project that display congratulation wishes.
+Simple project that display birthday wishes.
 
-[Live site here](https://for-youu.netlify.app)
+[Live site here](https://special-for-mama.netlify.app/)
 
 ## Tech I use
 
@@ -13,14 +13,11 @@ Simple project that display congratulation wishes.
 
 ## Installation
 
-Install dependencies
+Download or clone this repo.
+
+Install dependencies and run on your local machine.
 
 ```sh
 npm install
-```
-
-Run on your localhost
-
-```sh
 npm run dev
 ```
