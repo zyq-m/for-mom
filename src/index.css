@@ -31,6 +31,7 @@ button {
   /* reset styling */
   border: unset;
 
+  cursor: pointer;
   padding: 1.2em 2.875em;
   font-size: 1.25rem;
   font-family: "Indie Flower", cursive;
@@ -105,6 +106,7 @@ h1 {
 }
 
 .cta-btn {
+  cursor: pointer;
   width: fit-content;
   margin-inline: auto;
   padding: 0.5rem 1.5rem;
