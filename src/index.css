@@ -105,6 +105,10 @@ h1 {
   border-radius: 999px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .cta-btn {
   cursor: pointer;
   width: fit-content;
