@@ -9,11 +9,11 @@ const data = [
   },
   {
     id: 2,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus provident consectetur. -moy",
+    text: "Happy birthday mama<3...semoga panjang umo dan dipermudahkan segala urusan mama. Semoga dikurniakan kesihatan yg baik utk jaga mkrng semua... I Love You Mama !! -moy",
   },
   {
     id: 3,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus -nunul",
+    text: "Happy birthday Ma. Semoga panjang umur murah rezeki. Jaga kesihatan ktk ma. Terima kasih ma bnyk melayan olah kmk tok walaupun kadang kadang ktk pun sik suka. Sorry mun ada melukakan hati ktk ma. -nunul",
   },
   {
     id: 5,

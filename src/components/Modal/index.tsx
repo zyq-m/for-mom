@@ -61,8 +61,12 @@ const Modal = ({ handleClose }: any) => {
             <GrLinkNext />
           </motion.div>
         ) : (
-          <a>
-            <motion.div className="cta-btn" whileTap={{ scale: 0.9 }}>
+          <a href="https://vt.tiktok.com/ZSdhcJ22T/" target="_blank">
+            <motion.div
+              onClick={handleClose}
+              className="cta-btn"
+              whileTap={{ scale: 0.9 }}
+            >
               Last Surprise😗
             </motion.div>
           </a>
